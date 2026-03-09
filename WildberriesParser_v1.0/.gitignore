@@ -1,0 +1,124 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Nuitka
+*.build/
+*.dist/
+*.onefile-build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Парсер - результаты
+output/*.xlsx
+output/*.csv
+!output/.gitkeep
+
+# Логи и отладка
+*.log
+debug_*.html
+*.png
+*.jpg
+!screenshots/*.png
+!icon.ico
+
+# ChromeDriver
+chromedriver
+chromedriver.exe
+
+# Лицензии (локальные)
+*.lic
+wb_parser.lic
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Временные файлы
+*.tmp
+temp/
+tmp/
+
+# Собранные приложения
+*.exe
+*.zip
+!icon.ico
+
+# Env файлы
+.env
+.env.local
+
+# Кэш
+.cache/
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Coverage
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]

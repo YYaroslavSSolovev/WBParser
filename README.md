@@ -323,9 +323,9 @@ MIT License — см. [LICENSE](LICENSE)
 
 **Ваше Имя**
 
-- 💬 Telegram: [@ваш_телеграм](https://t.me/ваш_телеграм)
-- 📧 Email: your@email.com
-- 🐙 GitHub: [@ваш-username](https://github.com/ваш-username)
+- 💬 Telegram: [@Мой Телеграмм](https://t.me/Yaroslav_GIT)
+- 📧 Email: reikonogig@email.com
+- 🐙 GitHub: [Мой Гитхаб](https://github.com/YYaroslavSSolovev)
 
 ---
 

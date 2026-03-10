@@ -7,11 +7,11 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
-[![Version](https://img.shields.io/badge/Version-1.0.0-orange.svg)](https://github.com/ваш-username/wildberries-parser/releases)
+[![Version](https://img.shields.io/badge/Version-1.0.0-orange.svg)](https://github.com/YYaroslavSSolovev/WBParser/releases)
 
 **Мощный инструмент для сбора данных о товарах с обходом защиты и экспортом в Excel**
 
-[📥 Скачать](#-скачать) • [📖 Документация](#-использование) • [🐛 Сообщить об ошибке](https://github.com/ваш-username/wildberries-parser/issues)
+[📥 Скачать](#-скачать) • [📖 Документация](#-использование) • [🐛 Сообщить об ошибке](https://github.com/YYaroslavSSolovev/WBParser/issues)
 
 </div>
 
@@ -75,19 +75,10 @@
 
 ### Вариант 1: Готовое приложение (Windows)
 
-1. **Скачайте** последний релиз: [WildberriesParser_v1.0.zip](https://github.com/ваш-username/wildberries-parser/releases)
+1. **Скачайте** последний релиз: [WildberriesParser_v1.0.zip](https://github.com/YYaroslavSSolovev/WBParser/releases/tag/v1.0.0)
 2. **Распакуйте** архив в любую папку
 3. **Запустите** `WildberriesParser.exe`
 4. **Следуйте** инструкциям на экране
-
-### Вариант 2: Из исходников (для разработчиков)
-
-```bash
-git clone https://github.com/ваш-username/wildberries-parser.git
-cd wildberries-parser
-pip install -r requirements.txt
-python main_undetected.py
-```
 
 ---
 
@@ -135,28 +126,28 @@ python main_undetected.py
 <br>
 
 ### Главное меню
-![Главное меню](screenshots/1_start.png)
+![Главное меню](WildberriesParser_v1.0/screenshots/1_start.png)
 
 *Красивый интерфейс с баннером и инструкциями*
 
 ---
 
 ### Процесс парсинга
-![Парсинг](screenshots/2_parsing.png)
+![Парсинг](WildberriesParser_v1.0/screenshots/2_parsing.png)
 
 *Браузер автоматически открывается и собирает данные*
 
 ---
 
 ### Результат работы
-![Результат](screenshots/3_result.png)
+![Результат](WildberriesParser_v1.0/screenshots/3_result.png)
 
 *Подробная статистика и путь к сохранённому файлу*
 
 ---
 
 ### Excel файл
-![Excel](screenshots/4_excel.png)
+![Excel](WildberriesParser_v1.0/screenshots/4_excel.png)
 
 *Готовый файл с данными о товарах*
 
@@ -175,7 +166,7 @@ python main_undetected.py
     ID вашего компьютера: ABC123DEF456
 
     Отправьте этот ID разработчику для получения ключа.
-    Telegram: @ваш_телеграм
+    Telegram: [Телеграмм](https://t.me/Yaroslav_GIT)
 
     Введите лицензионный ключ: _
 
@@ -321,7 +312,7 @@ MIT License — см. [LICENSE](LICENSE)
 
 ## 👨‍💻 Автор
 
-**Ваше Имя**
+**Ярослав Соловьев**
 
 - 💬 Telegram: [@Мой Телеграмм](https://t.me/Yaroslav_GIT)
 - 📧 Email: reikonogig@email.com

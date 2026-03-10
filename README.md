@@ -306,7 +306,7 @@
 
 ## 📄 Лицензия
 
-MIT License — см. [LICENSE](LICENSE)
+MIT License — см. [LICENSE](LICENSE.txt)
 
 ---
 

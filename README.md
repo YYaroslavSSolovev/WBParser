@@ -80,15 +80,6 @@
 3. **Запустите** `WildberriesParser.exe`
 4. **Следуйте** инструкциям на экране
 
-### Вариант 2: Из исходников (для разработчиков)
-
-```bash
-git clone https://github.com/YYaroslavSSolovev/wildberries-parser.git
-cd wildberries-parser
-pip install -r requirements.txt
-python main_undetected.py
-```
-
 ---
 
 ## 📖 Использование

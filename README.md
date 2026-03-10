@@ -7,11 +7,11 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
-[![Version](https://img.shields.io/badge/Version-1.0.0-orange.svg)](https://github.com/YYaroslavSSolovev/wildberries-parser/releases)
+[![Version](https://img.shields.io/badge/Version-1.0.0-orange.svg)](https://github.com/YYaroslavSSolovev/WBParser/releases)
 
 **Мощный инструмент для сбора данных о товарах с обходом защиты и экспортом в Excel**
 
-[📥 Скачать](#-скачать) • [📖 Документация](#-использование) • [🐛 Сообщить об ошибке](https://github.com/YYaroslavSSolovev/wildberries-parser/issues)
+[📥 Скачать](#-скачать) • [📖 Документация](#-использование) • [🐛 Сообщить об ошибке](https://github.com/YYaroslavSSolovev/WBParser/issues)
 
 </div>
 
